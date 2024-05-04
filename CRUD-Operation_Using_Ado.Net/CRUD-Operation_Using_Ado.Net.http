@@ -1,0 +1,6 @@
+@CRUD_Operation_Using_Ado.Net_HostAddress = http://localhost:5068
+
+GET {{CRUD_Operation_Using_Ado.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
